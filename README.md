@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am a deep coffee lover.☕ Enjoying coffee is the best relaxing thing for me....
 - I have worked with [Xudong](https://marshtompsxd.github.io/) on building a [verfiable controller project](https://github.com/vmware-research/verifiable-controllers). Our paper won this year OSDI best paper!🏆
 - Besides, I also have experiences in Microsoft Research Asia DKI group. My mentor is [Shilin He](https://shilinhe.github.io/). We care about fixing Cloud Incidents!
-- I am looking for an internship as a SDE or related position. Let's connect!
+- I will join NVIDIA Triton Server Team this summer!
 
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=zichengma" />
